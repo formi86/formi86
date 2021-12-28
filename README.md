@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Nicolas Formichelli
+- 🌱 I’m currently studying to become an electronic technician at ETRR ([http://www.tecnicarobertorocca.edu.ar](url))
+- 💻 I’m working for deBacking in our major project: E-Quadris
+- 👀 I’m into: VueJS, ExpressJS, ES6, PHP, DJANGO, HTML5, CSS3, SCSS/SASS
